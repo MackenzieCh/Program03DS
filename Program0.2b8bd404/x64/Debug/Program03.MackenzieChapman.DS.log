@@ -1,0 +1,3 @@
+﻿  driver.cpp
+C:\Users\Mackenzie Chapman\OneDrive\Documentos\Program03.MackenzieChapman.DS\driver.cpp(149,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Program03.MackenzieChapman.DS.vcxproj -> C:\Users\Mackenzie Chapman\OneDrive\Documentos\Program03.MackenzieChapman.DS\x64\Debug\Program03.MackenzieChapman.DS.exe
